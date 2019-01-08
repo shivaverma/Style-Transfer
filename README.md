@@ -1,6 +1,6 @@
 ### About the Project:
 
-- This software transfers style of one image to other image with the help of pre-tranied VGG16 network. Used Keras Backend for the implementation. 
+- This software transfers style of one image to another image with the help of pre-tranied VGG16 network. Used Keras Backend for the implementation. 
 
 ### Base Image:
 
